@@ -1,0 +1,27 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+.themeLink {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+.theme {
+  display: flex;
+  margin-left: 20px;
+}
+.themes {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+.newsLines {
+  margin-top: 50px;
+}
+.newsLine {
+  margin-bottom: 10px;
+}
+.newsLineLink {
+  text-decoration: none;
+}
